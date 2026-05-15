@@ -1,6 +1,8 @@
 # project-2-logic-box-gr-13184
 📚 Python Concepts Used
+
 Basic:
+
 Variables
 Input/Output
 Arithmetic Operators
